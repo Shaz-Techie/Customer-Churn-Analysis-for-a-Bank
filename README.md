@@ -19,7 +19,7 @@ This project leverages a bank's dataset to analyze customer churn. The primary o
   ![Dashboard Image 2](https://github.com/user-attachments/assets/f142b2d1-00cd-4822-ad7c-5415bbc7d0d1)
 
 ## Findings
--About 20% of Total customers have left the bank which is double than the expected churn percentage(10%).
+- About 20% of Total customers have left the bank which is double than the expected churn percentage(10%).
 - About 48% of customers are inactive.
 - About 29% of the customers do not hold credit card.
 - Non-credit card holders are more likely to leave the bank than credit card holders.
