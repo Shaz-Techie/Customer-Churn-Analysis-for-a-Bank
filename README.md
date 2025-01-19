@@ -14,6 +14,7 @@ This project leverages a bank's dataset to analyze customer churn. The primary o
 
 ## Dashboard
 - [Dashboard file](https://github.com/Shaz-Techie/Customer-Churn-Analysis-for-a-Bank/blob/main/Customer%20Churn%20Analysis.pbix)
+- Images of Dashboard
   ![Dashboard Image 1](https://github.com/user-attachments/assets/491971e2-7b70-4277-90a1-c40e0c695c92)
   ![Dashboard Image 2](https://github.com/user-attachments/assets/f142b2d1-00cd-4822-ad7c-5415bbc7d0d1)
 
