@@ -4,7 +4,7 @@
 This project leverages a bank's dataset to analyze customer churn. The primary objective is to calculate the churn rate across different variables, identify key factors influencing churn, and provide actionable recommendations to reduce the churn rate.
 
 ## Dataset Used
-- [Dataset(https://drive.google.com/drive/folders/1e94lj4c3N6cTmyYaPkHj-6ogpX7WZ-L4)
+- [Dataset](https://drive.google.com/drive/folders/1e94lj4c3N6cTmyYaPkHj-6ogpX7WZ-L4)
 
 ## Requirements
 - What is the count of Total, Existing, Non Existing, Active, Inactive, Credit Card, Non Credit Card Customers.
@@ -14,8 +14,8 @@ This project leverages a bank's dataset to analyze customer churn. The primary o
 
 ## Dashboard
 - [Dashboard file](Customer Churn Analysis.pbix)
-![Dashboard Image 1](Dashboard Image 1.png)
-![Dashboard Image 2](Dashboard Image 2.png)
+- ![Dashboard Image 1](Dashboard Image 1.png)
+- ![Dashboard Image 2](Dashboard Image 2.png)
 
   
 ## Findings
