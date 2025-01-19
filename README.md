@@ -14,10 +14,9 @@ This project leverages a bank's dataset to analyze customer churn. The primary o
 
 ## Dashboard
 - [Dashboard file](Customer Churn Analysis.pbix)
-- ![Dashboard Image 1](Dashboard Image 1.png)
-- ![Dashboard Image 2](Dashboard Image 2.png)
+- ![Dashboard Image 1](https://github.com/user-attachments/assets/491971e2-7b70-4277-90a1-c40e0c695c92)
+- ![Dashboard Image 2](https://github.com/user-attachments/assets/f142b2d1-00cd-4822-ad7c-5415bbc7d0d1)
 
-  
 ## Findings
 -About 20% of Total customers have left the bank which is double than the expected churn percentage(10%).
 - About 48% of customers are inactive.
